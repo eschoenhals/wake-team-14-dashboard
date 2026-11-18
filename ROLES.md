@@ -39,6 +39,7 @@ One row per person. The same role may appear on more than one row.
 |---|---|---|
 | Emmett Schoenhals | eschoenhals | Captain |
 | Max Makowski | maxmakowski | Pitch Lead |
+| Ben Rothstein | benrothstein30 | Design Lead |
 
 ## Side quests
 
