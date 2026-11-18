@@ -38,6 +38,7 @@ One row per person. The same role may appear on more than one row.
 | Name | GitHub username | Role |
 |---|---|---|
 | Emmett Schoenhals | eschoenhals | Captain |
+| Max Makowski | maxmakowski | Pitch Lead |
 
 ## Side quests
 
